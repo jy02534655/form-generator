@@ -206,6 +206,10 @@ export default {
         {
           title: '选择型组件',
           list: selectComponents
+        },
+        {
+          title: '布局型组件',
+          list: layoutComponents
         }
       ]
     }
